@@ -10,4 +10,4 @@ A Sudoku game implemented in C++. This game allows players to create an account,
 -  Pause game with ESC key
 -  High-score leaderboard based on time and difficulty
 
-Developed by Amirabbas Amadeh.:)
+Developed by Amirabbas Amadeh:)
